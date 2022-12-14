@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sams-serif;
+    font-size: 18px;
+    color: white;
+    background-image: url(img/Mountain\ Background.jpeg);
+}
+li {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: normal;
+    color: white;
+    background-color: black;
+}
+h1 { 
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: underline;
+    font-size: 60px;
+    color: white;
+}
+h2 { 
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: underline;
+    font-size: 40px;
+    color: white;
+
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+}
+iframe {
+    border-bottom: 1cm;
+    border-color: black;
+}
+#TR {
+    float: right;
+ }
